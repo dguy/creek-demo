@@ -1,8 +1,8 @@
-module example.mod.api {
+module creek.demo.api {
     requires transitive creek.kafka.metadata;
 
-    exports org.acme.example.api;
-    exports org.acme.example.internal to
-            example.mod.services,
-            example.mod.service;
+    exports io.github.dguy.creek.demo.api;
+    exports io.github.dguy.creek.demo.internal to
+            creek.demo.services,
+            creek.demo.service;
 }

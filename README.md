@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Coverage Status](https://coveralls.io/repos/github/creek-service/aggregate-template/badge.svg?branch=main)](https://coveralls.io/github/creek-service/aggregate-template?branch=main)
-[![build](https://github.com/creek-service/aggregate-template/actions/workflows/build.yml/badge.svg)](https://github.com/creek-service/aggregate-template/actions/workflows/build.yml)
-[![CodeQL](https://github.com/creek-service/aggregate-template/actions/workflows/codeql.yml/badge.svg)](https://github.com/creek-service/aggregate-template/actions/workflows/codeql.yml)
+[![Coverage Status](https://coveralls.io/repos/github/dguy/creek-demo/badge.svg?branch=main)](https://coveralls.io/github/dguy/creek-demo?branch=main)
+[![build](https://github.com/dguy/creek-demo/actions/workflows/build.yml/badge.svg)](https://github.com/dguy/creek-demo/actions/workflows/build.yml)
+[![CodeQL](https://github.com/dguy/creek-demo/actions/workflows/codeql.yml/badge.svg)](https://github.com/dguy/creek-demo/actions/workflows/codeql.yml)
 
 # Creek aggregate repo starter
 
@@ -9,7 +9,7 @@ Quickly bootstrap new aggregate repositories and get up and developing Creek mic
 
 Click the [Use this template][useThisTemplate] to create a new repository from this template.
 
-See the [docs](https://www.creekservice.org/aggregate-template) for more information.
+See the [docs](https://www.creekservice.org/creek-demo) for more information.
 
 ## Using this template to create a Creek tutorial
 
@@ -38,5 +38,5 @@ If using this template to create a new Creek Tutorial, then there are some addit
 2. Add the new tutorial to the [tutorials page][tutorials] on creekservice.org
 3. Add the new tutorial sitemap.xml to the root aggregate sitemap.xml (steps: TBD)
 
-[useThisTemplate]: https://github.com/creek-service/aggregate-template/generate
-[tutorials]: https://github.com/creek-service/creek-service.github.io/blob/main/_pages/tutorials.md
+[useThisTemplate]: https://github.com/dguy/creek-demo/generate
+[tutorials]: https://github.com/dguy/creek-service.github.io/blob/main/_pages/tutorials.md

@@ -29,7 +29,7 @@ plugins {
     id("com.diffplug.spotless")
 }
 
-group = "org.creekservice"
+group = "io.github.dguy"
 
 java {
     sourceCompatibility = JavaVersion.VERSION_11
@@ -40,7 +40,7 @@ repositories {
     mavenCentral()
 
     maven {
-        url = uri("https://maven.pkg.github.com/creek-service/*")
+        url = uri("https://maven.pkg.github.com/dguy/*")
         credentials {
             username = System.getenv("GITHUB_ACTOR")
             password = System.getenv("GITHUB_TOKEN")
